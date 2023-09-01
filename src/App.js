@@ -1,5 +1,7 @@
 import React from 'react'
 
+import './App.css'
+import './index.css'
 import {Blog, Features, Footer, Header, Possibility, WhatGPT3} from './containers'
 import {ClickToAction, Brand, Navbar} from "./components";
 
